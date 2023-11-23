@@ -11,4 +11,4 @@ assignees: ''
 > Please link your feature design doc here.
 
 # User stories
-> Please list the link to the user stories here.
+> Please list all the links to each user story here.
