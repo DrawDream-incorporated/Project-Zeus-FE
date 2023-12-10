@@ -29,6 +29,7 @@ module.exports = {
       "error",
       {
         endOfLine: "auto",
+        trailingComma : "none"
       },
     ],
     "no-unused-vars": "off",
