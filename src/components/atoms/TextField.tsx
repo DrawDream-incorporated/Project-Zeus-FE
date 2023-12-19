@@ -1,7 +1,7 @@
 import { MantineRadius, MantineSize, TextInput } from '@mantine/core';
-import { VARIANT } from 'constants/enum';
 
 import classes from './TextField.module.css';
+import { VARIANT } from 'types/enum';
 
 interface Props {
   required?: boolean;
@@ -22,8 +22,7 @@ export default function TextField(props: Props) {
     <TextInput
       {...props}
       classNames={{
-        input: classes.input,
-        label: classes.label,
+        input: classes.textInput,
       }}
     />
   );
