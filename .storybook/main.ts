@@ -7,19 +7,19 @@ const config: StorybookConfig = {
     "@storybook/addon-essentials",
     "@storybook/preset-create-react-app",
     "@storybook/addon-onboarding",
-    "@storybook/addon-interactions",
+    "@storybook/addon-interactions"
   ],
   framework: {
     name: "@storybook/react-webpack5",
     options: {
       builder: {
-        useSWC: true,
-      },
-    },
+        useSWC: true
+      }
+    }
   },
   docs: {
-    autodocs: "tag",
+    autodocs: "tag"
   },
-  staticDirs: ["../public"],
+  staticDirs: ["../public"]
 };
 export default config;
