@@ -1,14 +1,15 @@
 ---
 name: Feature template
 about: feature template
-title: ''
+title: ""
 labels: FE, feature
-assignees: ''
-
+assignees: ""
 ---
 
 # Design documentation
+
 > Please link your feature design doc here.
 
 # User stories
+
 > Please list all the links to each user story here.

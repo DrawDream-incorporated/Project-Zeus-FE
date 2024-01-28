@@ -1,11 +1,11 @@
 ---
 name: Task template
 about: task template
-title: ''
+title: ""
 labels: FE, task
-assignees: ''
-
+assignees: ""
 ---
 
 # Description
+
 > Please enter the details of the task here...

@@ -3,7 +3,7 @@ module.exports = {
     "plugin:@typescript-eslint/recommended",
     "plugin:jest/recommended",
     "plugin:prettier/recommended",
-    "plugin:storybook/recommended"
+    "plugin:storybook/recommended",
   ],
   plugins: ["react", "@typescript-eslint", "jest"],
   env: {
@@ -30,17 +30,17 @@ module.exports = {
       "error",
       {
         endOfLine: "auto",
-        trailingComma : "none"
+        trailingComma: "none",
       },
     ],
     "no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars": [
       "warn", // or "error"
-      { 
-        "argsIgnorePattern": "^_",
-        "varsIgnorePattern": "^_",
-        "caughtErrorsIgnorePattern": "^_"
-      }
+      {
+        argsIgnorePattern: "^_",
+        varsIgnorePattern: "^_",
+        caughtErrorsIgnorePattern: "^_",
+      },
     ],
   },
 };
