@@ -8,20 +8,20 @@ module.exports = {
   env: {
     browser: true,
     es6: true,
-    jest: true,
+    jest: true
   },
   globals: {
     Atomics: "readonly",
-    SharedArrayBuffer: "readonly",
+    SharedArrayBuffer: "readonly"
   },
   parser: "@typescript-eslint/parser",
   parserOptions: {
     ecmaFeatures: {
-      jsx: true,
+      jsx: true
     },
     ecmaVersion: 2020,
     sourceType: "module",
-    project: "./tsconfig.json",
+    project: "./tsconfig.json"
   },
   rules: {
     "linebreak-style": "off",
@@ -29,17 +29,17 @@ module.exports = {
       "error",
       {
         endOfLine: "auto",
-        trailingComma : "none"
-      },
+        trailingComma: "none"
+      }
     ],
     "no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars": [
       "warn", // or "error"
-      { 
-        "argsIgnorePattern": "^_",
-        "varsIgnorePattern": "^_",
-        "caughtErrorsIgnorePattern": "^_"
+      {
+        argsIgnorePattern: "^_",
+        varsIgnorePattern: "^_",
+        caughtErrorsIgnorePattern: "^_"
       }
-    ],
-  },
+    ]
+  }
 };
