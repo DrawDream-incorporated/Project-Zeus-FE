@@ -1,9 +1,5 @@
 function TextField() {
-  return (
-    <div>
-      TextField
-    </div>
-  )
+  return <div>TextField</div>;
 }
 
 export default TextField;

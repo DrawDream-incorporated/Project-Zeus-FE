@@ -1,9 +1,5 @@
 function body() {
-  return (
-    <div>
-      body
-    </div>
-  )
+  return <div>body</div>;
 }
 
 export default body;
