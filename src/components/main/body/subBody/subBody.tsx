@@ -1,9 +1,9 @@
-import React from 'react'
-
 function subBody() {
   return (
-    <div>subBody</div>
+    <div>
+      subBody
+    </div>
   )
 }
 
-export default subBody
+export default subBody;

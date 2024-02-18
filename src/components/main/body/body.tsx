@@ -1,9 +1,9 @@
-import React from 'react'
-
 function body() {
   return (
-    <div>body</div>
+    <div>
+      body
+    </div>
   )
 }
 
-export default body
+export default body;
