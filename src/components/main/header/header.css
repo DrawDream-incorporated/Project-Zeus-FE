@@ -1,0 +1,41 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 64px;
+}
+.companyLogo{
+    width:115px;
+    height: 28px;
+    margin-right:50px;
+}
+
+.headerTitle{
+    font-size:16px;
+}
+
+.headerTitle>span{
+    padding: 10px;
+    margin-left: 0.5vw;
+    margin-right: 0.8vw;
+}
+
+.logIn , .signUp{
+    width: 85px;
+    height: 35px;
+    border-radius: 15px;
+    margin-left:0.5vw;
+    margin-right: 0.5vw;
+    border-width: 0.5px;
+}
+
+.logIn{
+    background-color: white;
+    border-color: grey;
+}
+
+.signUp{
+    background-color: #00BFFF;
+    color: white;
+    border-color:#00BFFF;
+}
