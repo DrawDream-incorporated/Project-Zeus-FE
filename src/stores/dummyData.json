@@ -1,0 +1,570 @@
+{
+    "body":{
+        "bodyBannerURL": "https://assets-static.invideo.io/images/large/image_22_16ac0715c8.png",
+        "Q&A":[
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test1",
+                "boltPoint":166,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":0,
+                "postTitle":"What is the different between Docker dontainer and image."
+            }
+            ,{
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test2",
+                "boltPoint":55,
+                "createdTime": "2024-01-31T09:00:00.594Z",
+                "thumsUp":1,
+                "comments":1,
+                "postTitle":"How the data send and receive each other"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test3",
+                "boltPoint":0,
+                "createdTime": "2024-02-12T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":1,
+                "postTitle":"Is it okay to study Javascript and Reactjs?"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test4",
+                "boltPoint":1556,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":0,
+                "postTitle":"how the scroll bar be invisible when I scoll down"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test5",
+                "boltPoint":15,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":0,
+                "postTitle":"This is only way to use Java version over 17 when I want to use Sprint boot."
+            }
+    ],
+    "Community":[
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test6",
+                "boltPoint":22,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":0,
+                "postTitle":"What is the different between Docker dontainer and image."
+            }
+            ,{
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test7",
+                "boltPoint":77,
+                "createdTime": "2024-01-31T09:00:00.594Z",
+                "thumsUp":1,
+                "comments":1,
+                "postTitle":"How the data send and receive each other"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test8",
+                "boltPoint":144,
+                "createdTime": "2024-02-12T09:00:00.594Z",
+                "thumsUp":12,
+                "comments":13,
+                "postTitle":"Is it okay to study Javascript and Reactjs?"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test9",
+                "boltPoint":1556,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":2,
+                "comments":1,
+                "postTitle":"how the scroll bar be invisible when I scoll down"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test10",
+                "boltPoint":15,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":3,
+                "comments":2,
+                "postTitle":"This is only way to use Java version over 17 when I want to use Sprint boot."
+            }
+    ],
+    "WeeklyBest":[
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test11",
+                "boltPoint":166,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":0,
+                "postTitle":"I got so much stress."
+            }
+            ,{
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test12",
+                "boltPoint":55,
+                "createdTime": "2024-01-22T18:00:00.594Z",
+                "thumsUp":12,
+                "comments":3,
+                "postTitle":"Depresstion"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test13",
+                "boltPoint":33,
+                "createdTime": "2024-02-22T09:00:00.594Z",
+                "thumsUp":2,
+                "comments":1,
+                "postTitle":"Is it okay to study Javascript and Reactjs?"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test14",
+                "boltPoint":1556,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":2,
+                "comments":0,
+                "postTitle":"how the scroll bar be invisible when I scoll down"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test15",
+                "boltPoint":15,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":0,
+                "postTitle":"This is 30 tips to become a developer"
+            }
+    ],
+    "EditorChoice":[
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test16",
+                "boltPoint":166,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":5,
+                "comments":9,
+                "postTitle":"How to make a good question."
+            }
+            ,{
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test17",
+                "boltPoint":88,
+                "createdTime": "2024-01-31T09:00:00.594Z",
+                "thumsUp":5,
+                "comments":9,
+                "postTitle":"Before you say do your best"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test18",
+                "boltPoint":0,
+                "createdTime": "2024-02-12T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":1,
+                "postTitle":"After 3 years in IT field"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test19",
+                "boltPoint":44,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":0,
+                "postTitle":"how the scroll bar be invisible when I scoll down"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test20",
+                "boltPoint":15,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":0,
+                "postTitle":"This is only way to use Java version over 17 when I want to use Sprint boot."
+            }
+    ],"Knowledge":[
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test21",
+                "boltPoint":166,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":0,
+                "postTitle":"AWS news"
+            }
+            ,{
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test22",
+                "boltPoint":55,
+                "createdTime": "2024-01-31T09:00:00.594Z",
+                "thumsUp":1,
+                "comments":1,
+                "postTitle":"How to connect to super base"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test23",
+                "boltPoint":0,
+                "createdTime": "2024-02-12T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":1,
+                "postTitle":"groq ai is so fast"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test24",
+                "boltPoint":1556,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":0,
+                "postTitle":"What is a supa base?"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test25",
+                "boltPoint":15,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":3,
+                "comments":5,
+                "postTitle":"SW/AI news"
+            }
+    ],"notice":[
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test26",
+                "boltPoint":166,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":8,
+                "comments":333,
+                "postTitle":"Open Talent event"
+            }
+            ,{
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test27",
+                "boltPoint":55,
+                "createdTime": "2024-01-31T09:00:00.594Z",
+                "thumsUp":1,
+                "comments":1,
+                "postTitle":"Survey"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test28",
+                "boltPoint":0,
+                "createdTime": "2024-02-12T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":1,
+                "postTitle":"Is it okay to study Javascript and Reactjs?"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test29",
+                "boltPoint":1556,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":0,
+                "postTitle":"Talent Beta Open event"
+            },
+            {
+                "profilePitcureURL": "https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test30",
+                "boltPoint":15,
+                "createdTime": "2023-12-31T09:00:00.594Z",
+                "thumsUp":0,
+                "comments":0,
+                "postTitle":"Talent Beta Open event"
+            }
+    ],
+    "event":{
+        "eventTheme":"Legal counselling with Konada",
+        "eventList":[
+            {
+                "eventTitle": "The company sue me when the project is finished.",
+                "eventImage": "https://cdn.pixabay.com/photo/2024/02/12/12/33/snow-8568544_640.jpg" ,
+                "createdTime":"2023-12-31T09:00:00.594Z",
+                "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test1"
+            },
+            {
+                "eventTitle": "The company sue me when the project is finished.",
+                "eventImage": "https://cdn.pixabay.com/photo/2024/02/12/12/33/snow-8568544_640.jpg" ,
+                "createdTime":"2023-12-31T09:00:00.594Z",
+                "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test2"
+            },
+
+            {
+                "eventTitle": "The company sue me when the project is finished.",
+                "eventImage": "https://cdn.pixabay.com/photo/2024/02/12/12/33/snow-8568544_640.jpg" ,
+                "createdTime":"2023-12-31T09:00:00.594Z",
+                "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                "userId":"test3"
+            }
+        ]
+
+    }
+},
+"leftSideBar":{
+    "topAdvertisementURL":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITERUTEBIVFhMWGBgbGBcYFhYYGBUaGRYXGBcYFxkYHSggGBolHRgVIjEjJSkrLi4wGR8zODMtNygtLiwBCgoKDg0OGxAQGy0lHyUtLS0tLS0tLS0vLTItLS0tLS0tLS0tLS0tLS01LS0vLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAEAAwADAQAAAAAAAAAAAAAABAUGAgMHAf/EAEEQAAIBAgQDBQUGBAUCBwAAAAECAAMRBBIhMQUGQRMiUWFxBzKBkbEUIyRSobJCcnPBM2KCs8JjkhY0ZKLS8PH/xAAaAQEAAwEBAQAAAAAAAAAAAAAAAQIDBAUG/8QANhEAAgECBAMGAggHAAAAAAAAAAECAxEEEiExBUFREzJhcZGhIoEGFCNCwdHw8RUWM0NS0uH/2gAMAwEAAhEDEQA/APcYiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIB8JnwsJC4lVtlHmZxpsTvIuTYnq4O05SGFtqNJ1YjFsoJOwi5BYxKrE8dw9P/Eqqpy5rE6220HXXpMRiPaTVzjJRQKCcwJJJF9LEWym3kZpGnKWyIuj0yJj8Dz7h2TNVV6Z1/hLKSBcgMBva2htuJW0faQLnPQNsxykMAculrg7tvJ7GfQZkehRM3w/nLB1TbtOzN7DtBlvpe99radf7iaK/WUaa3RJyiVWM5gwtJSz10sDbQ5jfwstzeWFGqGUMpBUgEEagg6giQDtiRsbjKdJc1V1RR1YgfK+5mMre0emHslBilveLBTf01087/CWjCUtkLm8iZ3gfNuGxJCBslUgnI1xsLkKxADEAE6dJopDTW4ERPhMgHRi8UlJS1RgqjqTaZHjHtAp0ndKVI1GVrXLAK2mpBFzv5TG81cabE12JPcUlaYGwAJ19TK7htAPUANtwApv3yTougNvXwvOqGHVryKuR7RwjjFHEqWouGtbMNQVJF7G49ZYzx/C4+phaj1FqUkrAaoAezqA6hSAAAQCCCD663vd8O5+rAK2JoA0y2tRLjKpOndN7/MXmcqMvu6jMj0WJCo8SouVCVUJcEqAwuwFr29LicsdxClRAatUVFJABYgamYliXE4g31E5QDi7WE6hXvtI2PxigFQwLdRcXF/EdJwwr6CQSkSftNvenejgi42kKrJOC9wQGjviIkkCIiAIiIAiIgFTxRvvFHkfrOyhIvETev6ASZQ2lHuWR3mU3MT2oVD4I30lwZnubnthqp/yN+0yy3B5vyxSpPVVa1rEd1TcKzEgBWIFwLE+GoGonHmHCGniKoyBVzNkCm4yhiosbnwIPgQRpacuXmqh81KmtQLlLK1gNDdSDcEG4Oo853cdpYmozVqtMKo2VSmVQzXNgDcksxJO+s7Z4uhCt2cqkVLRZXJXu9vhvfUyjTm45lF262ZGXEk4cqSbLUWwsP4lfc7mxX9YweBLHNUSoKSDM5trlHQErbMdFHmb7bfeEcQSkr5lZmJUpZgFBAYAsCDe2cmxBHlOxMU9ZmVVeoW1Ies7E2117yg62m85qEXKTslq23a3juiijeyW5AxTIT3FKi2zNmN/UKv06S5ocyV2oLhXclLgZtj2YW3Z6C5Gg1Jv0kHGh6S5HoU0DEkH3m0toGLG3T9ZCwv+IuvWUjOnWipwakuTTTXqtCzUouz0ZJoZSRekLEgWDG4uQNvjLPhvNmKw4yLUzU1NsrAGwGlgdwLCVtOu4A7q6Ea3F9LEjfyEh4hu8fU/WWaUtJEFxxrilXFv2lXMqgHKq3awABZrG2mty3pvaQqeEa4ze7ZmuuuYKLnL59bHUDWcKOPCvnCDNcHUgi4NwQCPHXczgmJUXGXusDfvANrbY5bDa23UwlZWWwJQwiXUEvZ/dsoJF/zi+p11AO1j1tJ/CuJVcJ95RdmCFRURiexfMNMtjv4G17C+1xIX22lZbrVBUd0B00Pie73tLDbYAdJHxmOVy5CZc5FtdFC7WFt7C3zhxzaNA1mO9pNZlHYUURurOc4v1ygW08z8pDqccx1en2VWtYOL5adNRVZbX1NwEp21uSDbxEoOBUVeuisAR3jlOzZUZwvobCWVThmITC1qtUWZ2Qscy5iuZs4Nj1Y0z/pPhOeboUpKEmk3td6vW2ib1/bqXSk1dHU1HDU9HfO35Uu4Hqe4L+hM40+K06V+xogNb3nIP6bj0zEHqDKcNPpM6Mt9yhb1+HZjd6v3rDOykG5zPlvcC3vG3U+VpFr8SBUgItyoTNr7oIIGW9hsJ3YPFYip3KQDFR1tfKDt3jYi5v6m++snNTWmv3q06ZYNnU6lugyFSba66+VtZi69NVOyco5v8brN6b2+RbJLLms7deXrsUeCaqGDUiwKagg2CeZN7AHz3lhxCvi8W96jCpa50emVQdfdayjQbyHUJalTCglFJLBd85ZtW3/hKgG1tx4zrweErOymgj5r6MDtbqDYW1uf/wAmviVN3wDmGvhqAovRFcobArWQnL0UA6sRsAJR8zc6VsQQtPNRVTeysQ5axBuRbTU6Tlinp5qjB6fZhiPfXL52AuTfWwA2mb4tiRUqu67Ejfc2UAsfUgn4zOMI3vb9eWxN3YuuTsWxxD5mLF1uSSSSQ25J33M9SwR0E8g5PP4r/Qfqs9dwJ0E58R3/AENYbEmoJKwfuyLUkjBHu/GYol7EmIiSVEREAREQBERAM/iWvXb4SwojSVgN6znzMtKW0oWOwzL88NbCVf5T9JpzMjz834Wp6fUgS8e8gzM8lUO5VbxKj5An+8uOI0s+Hq2/K/zW9/1E6uS6H4a/5nY/LKv9pL4D95QPm1UH41H/ALGfE8Vqv6/WxC/t1IL0T/0PSw8rUYw6p/r3MLwTACvVCE2FiSRvYW2+YmrwnBaVGspRzmyt3Sb3GlyPTSVHI9M/aXB6U2B9Q9MTR4mmRjaP9Gp+5Z6/H8XXeMnh4zah2UnZc/hk9fP25HPhIwVNTa1zfjYouc1AajfbvX/9t508c4ClGmXps5OYDUi1jfwHjaSefU1o38H8P8kt+IUe1win8wot83QmZ4XGVcPhcDKMmoSlJSXJ/Hpf3LVIxnOrda2VvQo+OcEp0aJdXctcAXItqddh4XnHgfLoqUxUqlgpvZRpoOpNpY8+G1Gmvi9/kp/+QlrwakDhKV9AaS/s1MyfFsZDhNOs6jzTm1m5pJbL5r/qJ7Kk8Q1bRLYznEOXU7I1MO5ItmsSCGFr90jykDl7hi13YOWGUA6W8fQzV4fGYSnSWmuIpEKtheolz6yl5DW71B/kH1E6qPEcYsBinJyvBrJKStJpytzXgur1tczlTpOrCyWu6WqPmN5bSmlVwzEKl1BIvcXJJsNttPWSuUsOOxLA3LHUad2xIHzGs+c48Uem3YoBZ6d2JvexLCw102M+8ioTTq/zD6GYYieLqcFlWxEr3lBrZ3jdLXpr8XXqaQdOGJSgtr+v7EHjg7LFpVpv3yQSNDkKhFGnmNdZY8fwz9hUZq1RrD3T2YX3hpZVFh6WlJzGn45h1vT/AGJNdzDQH2epe2w8erL4S1apUpw4dFO91G90trwstuSdk99CIuLdZ269fEynL/AxXUu5IUGwC2uSLE6+Gsn1eWqToTQc3FwNQykjQg+GskcnYqnlNEsA+a6g/wAQIGg8xrJOP4diaKk4QgpcsUKgsCTc5T/F6fWMbj8YuITpKt2bTWRS0g14uz301fO+qdkRThS7JNxv163M5yrSL1Ws7J3Cbra/vLpqDPvN9Eo6Xdnup1bLpr0sBJHIq/fv/SP70n3n5bVKf8jfWejKtL+YFT5Zeiv3Xztf3MtPqbfO/wCJJXl5KYFRKroyjNmJFl0uSdNR5ThxjhH3LMtWocq5rFrowAvoo0Gm1pdcYpn7JV/on9k44ml+DJ/9Of8Aanz9Hi2NtCo6rf2mW2lraPXTxt77nc6NHWOVd38zH8vcIFcsXJCpba1yTfr8P1lp/wCGaJdgKjaZbqCt1JudTbYi07ORFulX+ZfoZPwA/F4v1o/7U9DifEcXDGYiFOo4qnGLSVutNdOedu/y2McPTpOnByim29ff8il4XhFo4/s1JICdbX1ynoJ6fgD3RPN304n/AKP+Kz0XAHuie3h6kqmHpTm7twi2/FpXOSaSnJLa7Jzzu4edD6zpednDzvNij2JsREkqIiIAiIgCcHawJPSc5Dx7d0jplYn5QCjwD5mY+JlzTlLwddJdpKIuz6ZjvaA34ZvVf3rNgZiPaK/4e3iy/W/9prT768ystmTeVMPlwlEeKk/9zFv7zt4TxBcRTL0wwAYrrvcWPQnxEyOBx2JVVVcRUyqq6LSpWH3YfIrO12IBGtvDxF4vDqmKpkUsHUcKwL5WWmCtmNNs2a9j934/CfMYj6LVq8q1SU455TzRd5WSbk5X+Hd3VvJ7G0cUo2S2LHl6jl4niE/rW9DVVh+k0mJwbnF06gF0WnUUm40JZbDx8flMjTwLiqa9XE2qg3LIBcG1tTawFhY3Fo43xuurI9OuxQggaU7A9T3RY/X3rTtx3A8VXrxq05x/p5JXvvlcXbTnfR8uhSFeMY2tzuTefhY0vR/oJc8r9/B0r9Bb/tc2+gmaat2uX7Sz1nCh1TMiDKzKpXMANdTuRt8ZxxWNq0KnY4euadPUgEKbaaopIJbUEC9r+UtW4JWnw2lhFKKnCTd7u28vC/3lulsFXSqOfUle0Fu/SW5sFY7eJUDr5GaDgRD4OnlIuEyHyYDKR8xMVjGevlqO1QsBa7Imlme1rEW6+JjA1auHVmo1mXYlSqZTcga95tdR06bya/Ap1OHUsKpJTpu/Ozu5XW1+e9gq9qjl1NpwnDihg1FYAFKbFr201J6XufSUHs+W1Sr/AEx+4SJQxlXGXStWYqtmyqqKDYm5I0BA+M7WpfZVZ6L1VYhRc9mQbNcgjXoDsfrJjwau8PiYVJx7Ss76Xyr4s3PXm+XQOss0bbI6+fh+JU/9Jf31f/vwljyAe5V295TbrYggfQ/KZyp2+LIZiXYBVLWUWF3IGlh1/WcsJjUpNalWqoToagClfK6dV3O9/K+k6qvCp1OFrA5lmSSvq1o79L+3yKRq2q5yfzXhGXF9owsrsmU3XvZUpg6XuLGarmnTCVSNwP8AkJh+LVcSxBruKnZNa6tTYITYd7JsCVG48p3NxHFVqbCpXApHTvhVDb+C+P0tOWpwjEVFhG5QvRte19UnGyWm9o635l1WSzb6ltyfwqhWok1aYaotTe5uBlUrsdOs0fBaVVaZFfVhUbKSQT2d+7cgm+nU6zz7AVXp1B2FextZivgFG6kWexG2s7+LcbxTBkqVu4b2sFXMp81AJG+ux32mfEuCYrF1ZpVFkk01mzNw6qK1Vnz1V9OhNKuoJaar38yx5MscXWZditQi3gaikfpadftF/wASl/I37pR4DiFSkS1F8jEWJsu2nRvQGd708VjBmclwgtmbIijXa+g3nf8AwyouKxxt1kUcttb923S3uZ9p9lkN1xpfwNU/9A/7c411/Att/wCWP+zMjxGtxMKaVUsVZbFAKLErax0S7WtK48wYopk7Y5MuW2VPdta3u32nh0/ozilTjHPDSpm3ltZad3fTy8ToeKje9nsW3I/FKVM1EquEz5SpYgDS4IudBuP1mo4eKDVKzUagdm7MvZgwGVSq2I06HS8xvKPHkwzOKqlke2osSpF9bE6g3/QTU4jj2EpZ6io+dwpcKgDHSy57kZdCN/GRxzA154yrKlSqPOkk42cZaxvm00Sy7X70U9mKFZRgk2tPYo8VpxYfyD9gnofDjoJ5XgOImvxBarC2a9h4ALYDz0E9S4cdBPoaNGVGhSpT3jCKfmkkY5szcurZZNtOfDzqZwO05cPPeMuRyLCIiWKiIiAIiIAkLiWGZ0IVrH6jqJNiAZXh9XJWFB1YMQSGI7rW3APjaXgnLiVHMhI95dV9fD4jSddNgQCNiAfmJXYscmMxfPWEerTC01LEMDYbnpp46kTZPImGS9UaeMtGWVphrQ8zxSIgCVs6FRbZ0Nmp0w6Nemw/hBuOh6z7geLL9tpuhBDKUawIBZyx0za2zsu89bxGBpuLOoIPQgH6zHcV9ntP38KzK41AJut9CPQTqjWi9JaGWVmOxdQU6uVqXaHXLck2ynIbLYgd5CdB1HlImNzdhdxZ+193qA2dgSu4uxO/hLGvWo1cS6VqlaiuU5lY2VairaxFzcGwF9/nI3KuFfEYmnSSmophlapYXAVTfvMbnW1rXtrtOjNZXK8y+4byvialBKjUqZcDuCpmDAdAwt8trX8dZWnk3iFap36eW9u8zLlHTobmwnsYE+zj7eZfKjFcv8hJRqCrXqmqyiyi1lXfxJva5tJWI5Fwhp1FRSpclg25Q20C9ct+nrNXEo6km73JsjyWnwR8DiCKrDsyvdqHuKxsbqCb2IudPKdHF8fSqUiM6XUMQAcxY5HUL7o6sD8J6xjcDTqqFqorgG4DAGx8dZlqHIOH7epUqd5GvlpjQLcam4Opve3hNo1lvLcjL0PL3XNSXKfcBzr4Evo/mCCi337o8r9ZxAta+mW2Ww3ta9/Dr6/OesNyDhRc0jUR9crCo11PlrqPWYXmnDYrC1ctSqTcdxxYMwFgdRqPMX1Jub3vNYVYzdkVaaKugcmHdyutUhF0FrAhmPnsB6ka6TjWRqhVF2VEIHTVVzbXv3ifS521kXEYl3sXct0FzsPADoPSS8BQ7VGW/eSxTe9ie8PTW/kT5maPTVkHTjOH1KJUuCL5SLGxU6kA9QdL+GmhnziFUs2v5VIFrWzKGNvifpJnEqgVyzozLmZUBYqtksGPjqdbAj4yywnAGxCCvUFRu0FwqBUCgMyDUg6AIDsNGW19bRmSV2TYzeDw5qOqKQMx38BuWPkBc/CaQ4+jRYFhUsjNTpAZWCdmFzVOnfbMNdTo2wsBzqcEXCPRrZmCs5plaigFTUp1FBzDRl3JOlpBSriXplhTTPSqtmLUqVhmCj3nWwKshB1/jWVbT8hY58YxVH7SxY1SrpRJpBVWx7CnlYOz9xxob201G17xOO0QzVGW2ai4RyCTnB0SoSfea4IY9bqbbyZxTD4lnQrRp1C6UszClTYK5RVIZlBAGgPhY+E4ccxYAxIGTLUZaaWpopOQo9QlgAxsQi69W8pC5WBQ4amxN1QtlNzZSevW3Q2MtcTgyC9YrUJcPkXs3uCy2Oc2sAM3Q3Okgg0+xtpmNyTm72cMQqhfy5Te/mddLH5WROxGXJpltZiXZiB2mZToALaGw2G9yRpuQd3AqTJi6YdWU66MCD7p6GeucOOk8u4YFOIpZbHISFIJJ7PK2r/lNyBbTc6aCeocN2E48R3/AJGtPYtOkYM/efCfBtPmF/xBOcsWsREsVEREAREQBERAEqbVUbKKeanrZgwuPKx3+ctokWBUtVJFuzcN+W3/ACGlvjJmDw2XU+8d/LyHlJURYliIiSQUHFuUsJiKnaVaff6kErf1tvLTA4ClRXLSpqg62AF7eNt5LiTd2sBERIAiIgCIiAJFxeBpVRarTVwNgyg26dZKiAZXiXI2Equz2KErYBdFU9GCjr+kxuL5afBOe0ZeycgLV0FiLkB7+6DrPXJD4pw9K9JqVQXVhbzHmPOaRqyW+xFkeKcV4khZAo7RUbOSQRm2utj/AAkKLkjr5a+iUcGgZwO0fMWbKUxDqfcz5SWKrcsAB+hym1Dxj2bOtzhnDCx7r6H4EaeG8z2bieGIpK2JToqguVJ8FtcfKdHwzSysptuWftGw9cOjMGFEqBa4yiqMwa6gnvFQrXOtj6iUeB4mhcHEqzd002Yal0tazqTrbSzAgi19SJpqvI+Pr0lq1q5arYns6rMxU3PdBJIGlpx4Z7NKzqTXqLTOtlAzH1J2tCnBRs3sLO5WniOCo3qYdqtSoVVdQUICoqgZrWAsupAJNyBYEzPYzE1MRVzEXdjYKoNhck5VHqSfEkkm5JM9J4H7NqSjNimLtb3RooN+hGp0tNTheWsJTZHSggZPdNtRpbfrv1le2jHbUnKzzrlv2e1qjB8SAlIrfLfvm+wP5Zr8D7PsFTbMVLm9wGJIHlbr8bzXRMZVZPmWSRk+J8AoUKX3FML3lJsPAmdvD9pecSwpqU2QHKSND4HxmZo4nsTlrkIwJ11sR0N9hMmXjsXo2nzDn7wTrw2IR1vTZWF7XUg/SfMNUDOCpBF7aG+o3GkgkuoiJYoIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAJxKDwnKIAiIgCIiAIiIAkbF4KnUFqigyTEAymN5OXvfZqjUs1wwBNiCLHQeU+8B5abDECmbL17xYXuPdU7HSaqJFiczEREkgREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREA//2Q==",
+    "TopWriters":[{
+        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+        "rankingPoint":228
+    },{
+        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+        "rankingPoint":188
+    },{
+        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+        "rankingPoint":98
+    },{
+        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+        "rankingPoint":80
+    },{
+        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+        "rankingPoint":55
+    }]
+},
+"rightSideBar":{
+    "topAdvertisementURL":"https://reallygooddesigns.com/wp-content/uploads/2022/02/free-advertisement-poster-templates-1.png",
+    "bottomAdvertisementURL":"https://reallygooddesigns.com/wp-content/uploads/2022/02/AdvertisingPosters-46.png"
+},
+
+"footer":{
+    "companyLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHg1rlTsjyp6rJ6pcXFXRFT8mBrjbdU3Pvg&usqp=CAU",
+    "companyInfo":{
+        "companyName":"Konada",
+        "representative":"HanKyung Sung",
+        "businessNumber":"123-45-67890",
+        "address":"1328 hornby st, Vancouver, BC",
+        "customerService":"712-223-4456(10:00-18:00 Mon to Fri)"
+    }
+},
+"subBody":[
+    {
+        "Q&A":[
+            {
+                "notice":[
+                    {
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test1",
+                        "boltPoint":166,
+                        "tagTitle":"notice",
+                        "hashTag":["#notice","#grandopen","#jobs","#konada"],
+                        "views":1300,
+                        "thumsup":0,
+                        "comments":0,
+                        "noticeTitle":"new open sections"
+                    },
+                    {
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test2",
+                        "boltPoint":1660,
+                        "tagTitle":"notice",
+                        "hashTag":["#own","#q&a","#management","#konada"],
+                        "views":1300,
+                        "thumsup":0,
+                        "comments":0,
+                        "noticeTitle":"How to get a lot of comments?"
+                    }
+                ]
+                ,"posts":[{
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test3",
+                        "boltPoint":166,
+                        "tagTitle":"technich",
+                        "hashTag":["#spring","#springframework","#restapi"],
+                        "views":130,
+                        "thumsup":0,
+                        "comments":2,
+                        "noticeTitle":"How to use REST API?",
+                        "postContent":"Hi, I am a junior developer. I need some help how to use REST API"
+            },{
+                 "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test4",
+                        "boltPoint":166,
+                        "tagTitle":"technich",
+                        "hashTag":["#kubernetes","#Kafka","#restapi"],
+                        "views":130,
+                        "thumsup":0,
+                        "comments":2,
+                        "noticeTitle":"Error: Timeout was reached",
+                        "postContent":"When I send request to a EXTERNAL-IP gateway, Error: Timeout was reached occured."
+            },{
+                 "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test5",
+                        "boltPoint":166,
+                        "tagTitle":"technich",
+                        "hashTag":["#jar","#ubuntu","#springboot"],
+                        "views":130,
+                        "thumsup":0,
+                        "comments":2,
+                        "noticeTitle":"My project is not executed with ubuntu",
+                        "postContent":"I execute my spring boots project with adding jar on ubuntu."
+            }
+        ]
+            }
+        ],
+        "Community":[
+            {
+                "notice":[
+                    {
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test6",
+                        "boltPoint":56,
+                        "tagTitle":"notice",
+                        "hashTag":["#notice","#grandopen","#jobs","#konada"],
+                        "views":1300,
+                        "thumsup":5,
+                        "comments":10,
+                        "noticeTitle":"new open Talent"
+                    }
+                ]
+                ,"posts":[{
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test7",
+                        "boltPoint":166,
+                        "tagTitle":"community",
+                        "hashTag":["#changeJob","#Job","#Developer"],
+                        "views":130,
+                        "thumsup":0,
+                        "comments":2,
+                        "postTitle":"I want to give up my job"
+            },{
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test8",
+                        "boltPoint":196,
+                        "tagTitle":"community",
+                        "hashTag":["#project","#webDesigner","#uxui"],
+                        "views":130,
+                        "thumsup":0,
+                        "comments":2,
+                        "postTitle":"I want to find UX/UI developer"
+            },{
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test9",
+                        "boltPoint":169,
+                        "tagTitle":"community",
+                        "hashTag":["#spring","#springframework","#restapi"],
+                        "views":130,
+                        "thumsup":0,
+                        "comments":2,
+                        "postTitle":"Is it hard to become a developer over 30 years?"
+            }]
+            }
+        ],
+        "Knowledge":[
+            {
+                "notice":[
+                    {
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test1",
+                        "boltPoint":166,
+                        "tagTitle":"notice",
+                        "hashTag":["#notice","#grandopen","#jobs","#konada"],
+                        "views":1300,
+                        "thumsup":0,
+                        "comments":0,
+                        "noticeTitle":"new open sections"
+                    }
+                ]
+                ,"posts":[{
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test10",
+                        "boltPoint":166,
+                        "tagTitle":"techNews",
+                        "hashTag":["#ai","#sw","#news"],
+                        "views":990,
+                        "thumsup":5,
+                        "comments":2,
+                        "noticeTitle":"SW/AI news"
+            },
+        {
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test11",
+                        "boltPoint":22,
+                        "tagTitle":"tip",
+                        "hashTag":["#supaBase","#supbase"],
+                        "views":130,
+                        "thumsup":33,
+                        "comments":2,
+                        "noticeTitle":"How to connect to supabase"
+            },{
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test12",
+                        "boltPoint":133,
+                        "tagTitle":"tip",
+                        "hashTag":[],
+                        "views":130,
+                        "thumsup":0,
+                        "comments":2,
+                        "noticeTitle":"groq ai"
+            }]
+            }
+        ],
+        "notice":[
+            {
+                "notice":[
+                    {
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test1",
+                        "boltPoint":166,
+                        "tagTitle":"notice",
+                        "hashTag":["#notice","#grandopen","#jobs","#konada"],
+                        "views":1300,
+                        "thumsup":0,
+                        "comments":0,
+                        "noticeTitle":"new open sections"
+                    },
+                    {
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test2",
+                        "boltPoint":1660,
+                        "tagTitle":"notice",
+                        "hashTag":["#own","#q&a","#management","#konada"],
+                        "views":1300,
+                        "thumsup":0,
+                        "comments":0,
+                        "noticeTitle":"How to get a lot of comments?"
+                    }
+                ]
+                ,"posts":[{
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test13",
+                        "boltPoint":166,
+                        "tagTitle":"notice",
+                        "hashTag":["#jobs","#konada"],
+                        "views":130,
+                        "thumsup":0,
+                        "comments":2,
+                        "noticeTitle":"Notice for downtime"
+            },{
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test14",
+                        "boltPoint":16,
+                        "tagTitle":"notice",
+                        "hashTag":["#survey","#konada"],
+                        "views":1300,
+                        "thumsup":0,
+                        "comments":2,
+                        "noticeTitle":"Goods survey"
+            },{
+                        "profilePitcureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test15",
+                        "boltPoint":1660,
+                        "tagTitle":"notice",
+                        "hashTag":["#jobs","#notice","#konada"],
+                        "views":130,
+                        "thumsup":0,
+                        "comments":2,
+                        "noticeTitle":"Operational rules"
+            }]
+            }
+        ]
+    }
+]
+}
