@@ -1,8 +1,7 @@
 import "./Header.css";
 import { Input, Switch, useMantineTheme, rem } from "@mantine/core";
 import { IconSun, IconMoonStars, IconSearch } from "@tabler/icons-react";
-import companylogo from "../../../images/konada-logo.png";
-
+import companylogo from "../../../assets/konada-logo.png";
 const Header = () => {
   const theme = useMantineTheme();
 
@@ -33,8 +32,14 @@ const Header = () => {
           <span>Event</span>
           <span>Announcement</span>
         </div>
-        <Input placeholder="Search" leftSection={<IconSearch size={16} />} />
+        <Input
+          className="headerInput"
+          placeholder="Search"
+          radius={"xl"}
+          leftSection={<IconSearch size={16} />}
+        />
         <Switch
+          className="headerSwitch"
           size="md"
           color="dark.4"
           onLabel={sunIcon}

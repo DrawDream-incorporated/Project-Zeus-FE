@@ -1,5 +1,9 @@
-function body() {
-  return <div>body</div>;
+type Props = {}
+
+const Body = (props: Props) => {
+  return (
+    <div>Body</div>
+  )
 }
 
-export default body;
+export default Body

@@ -19,6 +19,15 @@
     margin-left: 0.5vw;
     margin-right: 0.8vw;
 }
+.headerInput{
+    border-radius: 30px;
+    margin-right:2vw;
+    margin-left:1vw;
+}
+
+.headerSwitch{
+    margin-right:0.5vw;
+}
 
 .logIn , .signUp{
     width: 85px;
