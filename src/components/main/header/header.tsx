@@ -33,14 +33,16 @@ const Header = () => {
           <span>Announcement</span>
         </div>
         <Input
-          className="headerInput"
+          ml="md"
+          mr="md"
           placeholder="Search"
           radius={"xl"}
           leftSection={<IconSearch size={16} />}
         />
         <Switch
-          className="headerSwitch"
-          size="md"
+          size="lg"
+          ml="md"
+          mr="md"
           color="dark.4"
           onLabel={sunIcon}
           offLabel={moonIcon}
