@@ -1,35 +1,37 @@
-.header{
+.header {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 64px;
 }
-.companyLogo{
+
+.companyLogo {
     width:115px;
     height: 28px;
     margin-right:50px;
 }
 
-.headerTitle{
+.headerTitle {
     font-size:16px;
 }
 
-.headerTitle>span{
+.headerTitle>span {
     padding: 10px;
     margin-left: 0.5vw;
     margin-right: 0.8vw;
 }
-.headerInput{
+
+.headerInput {
     border-radius: 30px;
     margin-right:2vw;
     margin-left:1vw;
 }
 
-.headerSwitch{
+.headerSwitch {
     margin-right:0.5vw;
 }
 
-.logIn , .signUp{
+.logIn, .signUp {
     width: 85px;
     height: 35px;
     border-radius: 15px;
@@ -38,12 +40,12 @@
     border-width: 0.5px;
 }
 
-.logIn{
+.logIn {
     background-color: white;
     border-color: grey;
 }
 
-.signUp{
+.signUp {
     background-color: #00BFFF;
     color: white;
     border-color:#00BFFF;

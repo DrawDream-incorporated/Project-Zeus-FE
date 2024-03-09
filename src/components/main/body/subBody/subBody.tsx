@@ -1,5 +1,5 @@
-function subBody() {
-  return <div>subBody</div>;
+const SubBody = () => {
+  return <div>SubBody</div>;
 }
 
-export default subBody;
+export default SubBody;
