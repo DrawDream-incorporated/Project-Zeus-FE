@@ -4,6 +4,7 @@
     align-items: center;
     height: 64px;
 }
+
 .companyLogo{
     width:115px;
     height: 28px;
@@ -13,12 +14,21 @@
 .headerTitle{
     font-size:16px;
 }
+.headerTitle>a{
+    text-decoration: none;
+    color: black;
+}
 
-.headerTitle>span{
+.headerTitle>a:hover{
+    color:#00BFFF;
+}
+
+.headerTextLink{
     padding: 10px;
     margin-left: 0.5vw;
     margin-right: 0.8vw;
 }
+
 .headerInput{
     border-radius: 30px;
     margin-right:2vw;
