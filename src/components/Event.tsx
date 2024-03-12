@@ -11,7 +11,7 @@ function Event() {
       <div className="mainContainer">
         <LeftSideBar />
         <SubBody
-          postInfo={dummyData.subBody.notice}
+          postInfo={dummyData.subBody.evet}
           title={"Event"}
           description={
             "Let's share information about technology-related events and networking events."

@@ -25,7 +25,9 @@ const Header = () => {
   return (
     <div>
       <div className="header">
-        <img className="companyLogo" src={companylogo} alt="company logo" />
+        <Link to="/">
+          <img className="companyLogo" src={companylogo} alt="company logo" />
+        </Link>
         <div className="headerTitle">
           <Link to="/question">
             <span className="headerTextLink">Q&A</span>

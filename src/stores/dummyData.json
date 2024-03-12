@@ -555,6 +555,72 @@
                         "postContent":"",
                         "createdTime": "2024-02-18T15:00:00.594Z"
             }]
+            },
+            "evet":
+            {
+                "notice":[
+                    {
+                        "profilePictureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test1",
+                        "boltPoint":166,
+                        "tagTitle":"notice",
+                        "hashTag":["#notice","#grandopen","#jobs","#konada"],
+                        "views":1300,
+                        "thumbsUp":0,
+                        "comments":0,
+                        "noticeTitle":"new open sections",
+                        "createdTime": "2024-02-25T15:00:00.594Z"
+                    },
+                    {
+                        "profilePictureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test2",
+                        "boltPoint":1660,
+                        "tagTitle":"notice",
+                        "hashTag":["#own","#q&a","#management","#konada"],
+                        "views":1300,
+                        "thumbsUp":0,
+                        "comments":0,
+                        "noticeTitle":"How to get a lot of comments?",
+                        "createdTime": "2024-02-22T15:00:00.594Z"
+                    }
+                ]
+                ,"posts":[{
+                        "profilePictureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test16",
+                        "boltPoint":166,
+                        "tagTitle":"notice",
+                        "hashTag":["#jobs","#konada"],
+                        "views":130,
+                        "thumbsUp":0,
+                        "comments":2,
+                        "postTitle":"Notice for downtime",
+                        "postContent":"",
+                        "createdTime": "2024-02-21T15:00:00.594Z"
+            },{
+                        "profilePictureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test17",
+                        "boltPoint":16,
+                        "tagTitle":"notice",
+                        "hashTag":["#survey","#konada"],
+                        "views":1300,
+                        "thumbsUp":0,
+                        "comments":2,
+                        "postTitle":"Goods survey",
+                        "postContent":"",
+                        "createdTime": "2024-02-20T15:00:00.594Z"
+            },{
+                        "profilePictureURL":"https://cdn-icons-png.flaticon.com/512/21/21104.png",
+                        "userId":"test18",
+                        "boltPoint":1660,
+                        "tagTitle":"notice",
+                        "hashTag":["#jobs","#notice","#konada"],
+                        "views":130,
+                        "thumbsUp":0,
+                        "comments":2,
+                        "postTitle":"Operational rules",
+                        "postContent":"",
+                        "createdTime": "2024-02-18T15:00:00.594Z"
+            }]
             }
     }
 }

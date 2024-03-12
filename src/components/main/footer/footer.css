@@ -1,40 +1,40 @@
-.footer{
+.footer {
     margin-bottom: 30px;
     display: flex;
     justify-content: space-between;
 }
 
-.footerMainContainer{
+.footerMainContainer {
     display: flex;
     align-items: center;
     flex-direction: column;
 }
 
-.footerIcons{
+.footerIcons {
     margin-left:300px;
     margin-top:10px;
 }
 
-.footerIcons>img{
+.footerIcons>img {
     margin-bottom:15px;
 }
 
-.socialIcon{
+.socialIcon {
     margin-left:-5px;
     margin-right:25px;
 }
 
-.footerTextLinks>span{
+.footerTextLinks>span {
     margin-left: 30px;
 }
 
-.companyInfo{
+.companyInfo {
     display: flex;
     flex-direction: column;
     margin-left: 15px;
 }
 
-.footerSponsor{
+.footerSponsor {
     visibility:hidden ;
     margin-right: 300px;
 }

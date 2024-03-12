@@ -1,9 +1,8 @@
-
-.subBodyContainer{
+.subBodyContainer {
    width: 840px;
 }
 
-.subBodyPostTitle{
+.subBodyPostTitle {
     width: 840px;
     height: 5rem;
     border-radius: 10px;
@@ -12,25 +11,26 @@
     margin-top: 70px;
 }
 
-.subBodyPostNotice{
+.subBodyPostNotice {
     background-color: rgb(218, 238, 245);
     border-bottom: 1px solid grey;
     padding:10px;
 }
-.subBodyPostNotice:first-child{
+
+.subBodyPostNotice:first-child {
     border-top: 1px solid grey;
 }
 
-.subBodyPostTitle>h3{
+.subBodyPostTitle>h3 {
     margin-left:20px;
 }
 
-.subBodyPostTitle>span{
+.subBodyPostTitle>span {
     margin-top:-24px;
     margin-left: 20px;
 }
 
-.subBodySortingRow{
+.subBodySortingRow {
     display:flex;
     justify-content: space-between;
     align-items: center;
@@ -38,21 +38,21 @@
     margin-bottom: 20px;
 }
 
-.subBodySortingRow>div>span{
+.subBodySortingRow>div>span {
     margin-left:1vw;
     margin-right:1vw;
     cursor: pointer;
 }
 
-.subBodySortingRow>div>span:hover{
+.subBodySortingRow>div>span:hover {
     color:#00BFFF;
 }
 
-.subBodyRefresh{
+.subBodyRefresh {
     margin-right:130px;
 }
 
-.questionButton{
+.questionButton {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,20 +65,20 @@
     border-radius: 10px;
 }
 
-.subBodySearchRow{
+.subBodySearchRow {
     display: flex;
     justify-content: space-between;
     margin-bottom:10px;
 }
 
-.subBodyPost{
+.subBodyPost {
     display: flex;
     margin-top:10px;
     padding: 10px;
     border-bottom: 1px solid grey;
 }
 
-.subBodyPostComment{
+.subBodyPostComment {
     width: 4rem;
     height: 4rem;
     border: 1px solid black;
@@ -91,35 +91,37 @@
     margin-right:20px;
 }
 
-.subBodyPostContent{
+.subBodyPostContent {
     width: 100%;
 }
-.subBodyPaiginationTop{
+
+.subBodyPaiginationTop {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.subBodyArrowLeft{
+
+.subBodyArrowLeft {
     margin-left:1vw;
     margin-right:0.5vw;
 }
 
-.subBodyPostTopIcons{
+.subBodyPostTopIcons {
     display: flex;
 }
 
-.postSubBodyContent{
+.postSubBodyContent {
     font-size: 23px;
     margin-left:10px;
 }
 
-.postSubBodyBottomRow{
+.postSubBodyBottomRow {
     display: flex;
     justify-content: space-between;
     margin-bottom: 10px;
 }
 
-.postSubBodyNoticeButton{
+.postSubBodyNoticeButton {
     background-color: white;
     color: #00BFFF;
     border: 0.5px solid grey;
@@ -128,7 +130,7 @@
     margin-left:10px;
 }
 
-.postSubBodyBottomRow>div>span{
+.postSubBodyBottomRow>div>span {
     margin-left:5px;
     margin-right:5px;
 }
