@@ -17,7 +17,7 @@ interface Body {
   sortList: string[];
 }
 
-const subBody: React.FC<Body> = ({
+const SubBody: React.FC<Body> = ({
   postInfo,
   title,
   description,
@@ -83,4 +83,4 @@ const subBody: React.FC<Body> = ({
   );
 };
 
-export default subBody;
+export default SubBody;

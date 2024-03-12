@@ -5,7 +5,7 @@ import {
   IconMailFilled
 } from "@tabler/icons-react";
 import "./Footer.css";
-function footer() {
+const Footer = () => {
   return (
     <div>
       <hr />
@@ -42,6 +42,6 @@ function footer() {
       </div>
     </div>
   );
-}
+};
 
-export default footer;
+export default Footer;

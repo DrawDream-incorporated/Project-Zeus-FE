@@ -3,7 +3,7 @@ import advertiseMent from "../../../assets/sidebarAdvertisement.png";
 import dummyData from "../../../stores/dummyData.json";
 import { IconBadge } from "@tabler/icons-react";
 
-function LeftSideBar() {
+const LeftSideBar = () => {
   return (
     <div className="leftSideBar">
       <img
@@ -32,6 +32,6 @@ function LeftSideBar() {
       ))}
     </div>
   );
-}
+};
 
 export default LeftSideBar;

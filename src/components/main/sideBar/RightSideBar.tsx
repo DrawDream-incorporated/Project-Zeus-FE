@@ -1,6 +1,6 @@
 import "./SideBar.css";
 import advertiseMent from "../../../assets/sidebarAdvertisement.png";
-function RightSideBar() {
+const RightSideBar = () => {
   return (
     <div className="rightSideBar">
       <img
@@ -15,6 +15,6 @@ function RightSideBar() {
       />
     </div>
   );
-}
+};
 
 export default RightSideBar;
