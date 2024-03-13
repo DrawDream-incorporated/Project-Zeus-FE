@@ -7,27 +7,27 @@
 .rightSideBar {
     display: flex;
     flex-direction: column;
-    margin-right:300px;
-    margin-top:50px;
+    margin-right: 300px;
+    margin-top: 50px;
 }
 
-.rightSideBar>img {
-    margin-bottom:30px;
+.rightSideBar > img {
+    margin-bottom: 30px;
 }
 
 .leftSideBar {
-    width:180px;
-    margin-bottom:30px;
-    margin-left:300px;
+    width: 180px;
+    margin-bottom: 30px;
+    margin-left: 300px;
     margin-top: 50px;
 }
 .rankingWriter {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom:5px;
+    margin-bottom: 5px;
 }
 
-.rankingWriter>div {
+.rankingWriter > div {
     display: flex;
 }

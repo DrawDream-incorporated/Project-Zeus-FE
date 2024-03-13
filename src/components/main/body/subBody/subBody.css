@@ -17,15 +17,15 @@
     padding: 10px;
 }
 
-.subBodyPostNotice:first-child {
+.subBodyPostNotice :first-child {
     border-top: 1px solid grey;
 }
 
-.subBodyPostTitle>h3 {
+.subBodyPostTitle > h3 {
     margin-left: 20px;
 }
 
-.subBodyPostTitle>span {
+.subBodyPostTitle > span {
     margin-top: -24px;
     margin-left: 20px;
 }
@@ -38,13 +38,13 @@
     margin-bottom: 20px;
 }
 
-.subBodySortingRow>div>span {
+.subBodySortingRow > div > span {
     margin-left: 1vw;
     margin-right: 1vw;
     cursor: pointer;
 }
 
-.subBodySortingRow>div>span:hover {
+.subBodySortingRow > div > span :hover {
     color:#00BFFF;
 }
 
@@ -155,7 +155,7 @@
     justify-content: space-evenly;
 }
 
-.subBodyPaiginationMiddle:first-child {
+.subBodyPaiginationMiddle :first-child {
     border-top: 1px solid lightblue;
     color: lightblue;
 }
