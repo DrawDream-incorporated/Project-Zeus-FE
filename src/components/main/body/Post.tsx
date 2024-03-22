@@ -1,3 +1,4 @@
+import useDateDiffInDays from "../../../hooks/useDateDiffInDays";
 import dummyData from "../../../stores/dummyData.json";
 import {
   IconThumbUp,
@@ -21,17 +22,6 @@ interface Body {
 }
 
 const Post: React.FC<Body> = ({ postInfo, postTitle }) => {
-  const dateDiffIndays = function (date1: string): number {
-    const dt1 = new Date(date1);
-    const dt2 = new Date();
-    console.log(dt1.getHours());
-    console.log(dt2.getHours());
-    return Math.floor(
-      (Date.UTC(dt2.getFullYear(), dt2.getMonth(), dt2.getDate()) -
-        Date.UTC(dt1.getFullYear(), dt1.getMonth(), dt1.getDate())) /
-        (1000 * 60 * 60 * 24)
-    );
-  };
   return (
     <div>
       <div className="postBody">
@@ -59,7 +49,7 @@ const Post: React.FC<Body> = ({ postInfo, postTitle }) => {
                 <span>{items.userId}</span>
                 <IconPlayerRecordFilled size={5}> </IconPlayerRecordFilled>
                 <span>
-                  {dateDiffIndays(items.createdTime)}
+                  {useDateDiffInDays(items.createdTime)}
                   <span> Days Before</span>
                 </span>
               </div>

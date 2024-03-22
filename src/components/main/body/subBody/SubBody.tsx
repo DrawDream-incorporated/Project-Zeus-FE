@@ -10,8 +10,35 @@ import {
 import { Input } from "@mantine/core";
 import SubBodyPost from "./SubBodyPost";
 
+interface PostInfo {
+  notice: {
+    profilePictureURL: string;
+    userId: string;
+    boltPoint: number;
+    tagTitle: string;
+    hashTag: string[];
+    views: number;
+    thumbsUp: number;
+    comments: number;
+    noticeTitle: string;
+    createdTime: string;
+  }[];
+  posts: {
+    profilePictureURL: string;
+    userId: string;
+    boltPoint: number;
+    tagTitle: string;
+    hashTag: string[];
+    views: number;
+    thumbsUp: number;
+    comments: number;
+    postTitle: string;
+    postContent: string;
+    createdTime: string;
+  }[];
+}
 interface Body {
-  postInfo: any;
+  postInfo: PostInfo;
   title: string;
   description: string;
   sortList: string[];

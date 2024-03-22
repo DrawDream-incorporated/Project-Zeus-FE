@@ -6,6 +6,7 @@ import {
   IconArrowLeft,
   IconArrowRight
 } from "@tabler/icons-react";
+import useDateDiffInDays from "../../../../hooks/useDateDiffInDays";
 
 interface PostInfo {
   notice: {
@@ -40,18 +41,7 @@ interface Body {
   sortList: string[];
 }
 
-const SubBodyPost: React.FC<Body> = ({ postInfo, sortList }) => {
-  const dateDiffIndays = function (date1: string): number {
-    const dt1 = new Date(date1);
-    const dt2 = new Date();
-    console.log(dt1.getHours());
-    console.log(dt2.getHours());
-    return Math.floor(
-      (Date.UTC(dt2.getFullYear(), dt2.getMonth(), dt2.getDate()) -
-        Date.UTC(dt1.getFullYear(), dt1.getMonth(), dt1.getDate())) /
-        (1000 * 60 * 60 * 24)
-    );
-  };
+const SubBodyPost: React.FC<Body> = ({ postInfo }) => {
   return (
     <div>
       {postInfo.notice.map((posts) => (
@@ -67,7 +57,7 @@ const SubBodyPost: React.FC<Body> = ({ postInfo, sortList }) => {
             <span>{posts.userId}</span>
             <IconPlayerRecordFilled size={5}> </IconPlayerRecordFilled>
             <span>
-              {dateDiffIndays(posts.createdTime)}
+              {useDateDiffInDays(posts.createdTime)}
               <span> Days Before</span>
             </span>
           </div>
@@ -117,7 +107,7 @@ const SubBodyPost: React.FC<Body> = ({ postInfo, sortList }) => {
               <span>{post.userId}</span>
               <IconPlayerRecordFilled size={5}> </IconPlayerRecordFilled>
               <span>
-                {dateDiffIndays(post.createdTime)}
+                {useDateDiffInDays(post.createdTime)}
                 <span> Days Before</span>
               </span>
             </div>
