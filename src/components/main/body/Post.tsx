@@ -63,7 +63,7 @@ const Post: React.FC<Body> = ({ postInfo, postTitle }) => {
             <div className="postContent">
               {items.postTitle.length > 50 ? (
                 <div>
-                  {items.postTitle.substring(0, 50)}
+                  {items.postTitle.substring(0, 40)}
                   <span>...</span>
                 </div>
               ) : (

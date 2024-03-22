@@ -68,11 +68,18 @@
     margin-right: 3px;
 }
 
+
+.postContent {
+    margin-left: 0.5vw;
+    margin-top: 0.5vw;
+    font-weight: bold;
+}
 .userProfilePictureBackground {
     width: 23px;
     height: 26px;
     border: 1px solid black;
     border-radius: 50%;
+    margin-right: 5px;
 }
 
 .userProfilePicture {

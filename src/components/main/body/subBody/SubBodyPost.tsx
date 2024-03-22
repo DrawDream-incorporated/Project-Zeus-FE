@@ -143,7 +143,7 @@ const SubBodyPost: React.FC<Body> = ({ postInfo }) => {
 
       <div className="subBodyPaiginationBottom">
         <div className="subBodyPaiginationLeft">
-          <IconArrowLeft />
+          <IconArrowLeft color="lightgrey" />
           <span>Previous</span>
         </div>
         <div className="subBodyPaiginationMiddle">
