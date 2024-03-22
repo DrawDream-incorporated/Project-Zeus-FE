@@ -36,7 +36,7 @@ const Post: React.FC<Body> = ({ postInfo, postTitle }) => {
           <span>{postTitle}</span>
         </div>
         {postInfo.map((items, index) => (
-          <div key={index} className="post">
+          <div key={index + items.profilePictureURL} className="post">
             <div className="postIcons">
               <div className="postIconsLeft">
                 <div className="userProfilePictureBackground">

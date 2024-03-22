@@ -75,8 +75,8 @@ const SubBody: React.FC<Body> = ({
             Ask
           </button>
           <div>
-            {sortList.map((sortText) => (
-              <span>{sortText}</span>
+            {sortList.map((index, sortText) => (
+              <span key={index + sortText}>{sortText}</span>
             ))}
           </div>
           <div>
