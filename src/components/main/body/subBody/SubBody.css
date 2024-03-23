@@ -11,6 +11,10 @@
     margin-top: 70px;
 }
 
+.subBodyPostNoticeContainer > :first-child {
+    border-top: 1px solid grey;
+}
+
 .subBodyPostNotice {
     background-color: rgb(218, 238, 245);
     border-bottom: 1px solid grey;
@@ -129,7 +133,7 @@
     margin-left: 10px;
 }
 
-.postSubBodyBottomRow>div>span {
+.postSubBodyBottomRow > div > span {
     margin-left: 5px;
     margin-right: 5px;
 }
